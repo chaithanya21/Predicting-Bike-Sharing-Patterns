@@ -57,6 +57,45 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
  
+<h2>Softwares and Libraries</h2>
+
+[Python 2.7 or Higher](https://www.python.org/downloads/)
+
+[Numpy](https://pypi.org/project/numpy/)
+
+[Matplotlib](https://pypi.org/project/matplotlib/)
+
+[Pandas](https://pypi.org/project/pandas/)
+
+[Jupyter Notebook](https://jupyter.org/install)
+
+<h2>Project Instructions</h2>
+
+Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
+
+```
+git clone https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns.git
+cd Predicting-Bike-Sharing-Patterns
+```
+Run the following to open up the notebook server:jupyter notebook
+
+In your browser, open Bike_Sharing_Neural_Network.ipynb
+
+Edit the Neural_Network.py python file, whose components are imported into the notebook at various places.
+
+<h2>Results</h2>
+
+<h2>Correlation Between Different Attributes In The Dataset</h2>
+
+![Correlation](https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Corr.png)
+
+<h2>Training and Validation Loss</h2>
+
+![Training and Validation Loss](https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Train_val.png)
+
+<h2>Predictions On the Test Dataset</h2>
+
+![Predictions](https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Pred.png)
 
 
 
