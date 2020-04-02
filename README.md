@@ -4,6 +4,11 @@ Building and Training a Artificial Neural Network(ANN) From Scratch To Predict T
 <li><b>If The Company Has Too Few Bikes,Then The Company Will Be Loosing Money From The Potential Riders.</b></li>
 
 <li><b>If The Company Has Too Many Bikes, Then They Wil Be Wasting Money On Bikes That Are Simply sitting Around.</b></li>
+<br>
+
+
+
+ Hence the Company needs how many bikes it needs in the near future,One of the best ways to predict is by looking at the Historical Data of the Company.
 
 
 
