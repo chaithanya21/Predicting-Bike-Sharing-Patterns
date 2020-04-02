@@ -8,7 +8,7 @@ Building and Training a Artificial Neural Network(ANN) From Scratch To Predict T
 
 
 
- Hence the Company needs how many bikes it needs in the near future,One of the best ways to predict is by looking at the Historical Data of the Company.
+ Hence the Company has to Know how many bikes it needs in the near future,One of the best ways to predict is by looking at the Historical Data of the Company.
 
 
 
